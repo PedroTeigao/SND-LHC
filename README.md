@@ -17,3 +17,7 @@ NOTE:The programs provided do not have interactive input capabilities, which mea
 -ag.cpp and ag1.cpp calculate the reconstructed momentum magnitude and energy of the lepton, as well as the reconstructed neutrino energy. These results are then represented as functions of the expected values.
 
 -ttree.cpp and ttree2.cpp are files that likely serve as a reminder or reference for the functionality of the ROOT framework, which is commonly used for data analysis in high-energy physics.
+
+-divenrg.cpp is used to determine the uncertainty of our method. It likely involves analyzing the variations or discrepancies in energy calculations or measurements to assess the reliability or accuracy of the method.
+
+-randomm.cpp is used to introduce uncertainties to the jet angle and momentum. It is likely employed to simulate or account for random fluctuations or errors in these variables. Additionally, it helps determine the uncertainty associated with the energy reconstruction of the neutrino
