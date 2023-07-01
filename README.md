@@ -20,4 +20,4 @@ NOTE:The programs provided do not have interactive input capabilities, which mea
 
 -divenrg.cpp is used to determine the uncertainty of our method. It likely involves analyzing the variations or discrepancies in energy calculations or measurements to assess the reliability or accuracy of the method.
 
--randomm.cpp is used to introduce uncertainties to the jet angle and momentum. It is likely employed to simulate or account for random fluctuations or errors in these variables. Additionally, it helps determine the uncertainty associated with the energy reconstruction of the neutrino
+-randomm.cpp is used to introduce uncertainties to the jet angle and momentum. Additionally, it is use to determine the uncertainty associated with the energy reconstruction of the neutrino
