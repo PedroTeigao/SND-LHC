@@ -168,7 +168,7 @@ for(int ientry = 0; i >= ientry ; ++ientry){
     
          double a11= a1; ;//variar o angulo
          double a22= a2;
-         double teta1 = acos(a11) + valv*w*(3.1415926/180) ;
+         double teta1 = acos(a11); //+ valv*w*(3.1415926/180) ;
          double phi1= acos (a22) + valv*w*(3.1415926/180);
     
          double pjt1 = abs(modj1*sin(phi1));
